@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hai, saya Ahmad Irsyad! 👋
 
-<!--
-**irsyad-07-debug/irsyad-07-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Mengenai Saya
+- 🎓 Saya sedang belajar tentang **Pengaturcaraan / Pembangunan Web / Sains Data**.
+- 🔭 Saya kini sedang fokus mempelajari **GitHub & Git**.
+- 🌱 Saya berminat untuk belajar **[Masukkan bahasa pilihan, cth: Python / JavaScript / HTML & CSS]**.
+- 💬 Tanya saya tentang **apa sahaja yang berkaitan dengan teknologi atau minat anda**.
+- ⚡ Fakta menarik: **[Masukkan hobi atau fakta menarik pasal anda]**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Kemahiran & Perkakas (Skills)
+- **Bahasa:** HTML, CSS, JavaScript, Python *(contoh)*
+- **Alat / Platform:** Git, GitHub, VS Code *(contoh)*
+
+---
+
+### 📫 Hubungi Saya
+- 💼 **LinkedIn:** [Ahmad Irsyad](https://linkedin.com/in/username-anda)
+- 📧 **E-mel:** [emailanda@example.com](mailto:emailanda@example.com)
